@@ -1,0 +1,6 @@
+vaca
+perro
+gato
+pajáro
+ratón
+lagaratija
